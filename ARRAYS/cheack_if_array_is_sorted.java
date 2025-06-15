@@ -24,7 +24,7 @@ public class cheack_if_array_is_sorted {
             arr[i]= sc.nextInt();
         }
         
-        System.err.println("the is sorted "+sorted(arr));
+        System.out.println("the is sorted "+sorted(arr));
 
     }
 }
