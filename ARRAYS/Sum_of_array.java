@@ -1,4 +1,4 @@
-
+package ARRAYS;
 import java.util.*;
 
 public class Sum_of_array {

@@ -1,4 +1,4 @@
-
+package ARRAYS;
 import java.util.Scanner;
 
 public class Second_largest_element {
